@@ -30,6 +30,7 @@ gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'carrierwave', '~> 2.1'
 gem 'mini_magick', '~> 4.11'
+gem 'figaro', '~> 1.2'
 
 
 # Reduces boot times through caching; required in config/boot.rb
